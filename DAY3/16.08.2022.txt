@@ -1,0 +1,25 @@
+Topics coverd
+  Class and Objects
+  Abstraction
+  Encapsulation
+  Inheritance
+  polymorphisom
+  Abstract class and interface concepts
+  Method overloading and overriding 
+Todays Tasks 
+	Difference between protected and Default 
+	Uses of super Keyword
+	final keyword concepts final method and final class
+	data type and its types
+	write a program to get N numbers from console and print the sum of N numbers.
+	Hello world  program using 
+			interface
+			Abstract class
+			Array
+			inheritance
+			overloading			overriding
+
+
+ 
+
+
