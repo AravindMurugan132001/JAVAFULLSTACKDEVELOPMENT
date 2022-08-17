@@ -1,37 +1,44 @@
-import java.awt.*;
 import java.util.Scanner;
 
 public class ATM {
     public static void main(String[] args) {
-        long initialBalance = 100_000;
-        Menu menu = new Menu();
+        // Create Objects for Class
+
         Scanner scanner = new Scanner(System.in);
-        int Choice;
-        do {
+        Menu menu = new Menu(scanner);
+        int amount = 0;
+
+        while (true) {
             menu.display();
-            System.out.print("Enter Your Choice : ");
-            Choice = scanner.nextInt();
-           // System.out.println(Choice);
-            switch (Choice){
+            int choice = menu.getUserChoice();
+            switch (choice) {
                 case 1:
+                    System.out.print("Enter The Amount To Withdraw : ");
+                    amount = scanner.nextInt();
+                    Withdraw withdraw = new Withdraw(amount);
+                    //menu.display();
                     break;
                 case 2:
+                    System.out.println("Enter The Amount To Deposit : ");
+                    amount = scanner.nextInt();
+                    Deposit deposit = new Deposit();
+                    deposit.dept(amount);
+                    //menu.display();
                     break;
                 case 3:
+                    Balance balance = new Balance();
                     break;
                 case 4:
-                    System.out.println("***Thank You For Visiting***");
+                    Utils.thankYou();
                     System.exit(0);
                     break;
                 default:
                     System.out.println("**Please Enter Valid Input**");
+                    //menu.display();
                     break;
             }
-
         }
-        while (Choice > 0 && Choice < 5);
-        System.out.println("***Thank You For Visiting***");
-
     }
-
 }
+
+
