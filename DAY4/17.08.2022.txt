@@ -1,0 +1,14 @@
+intro about
+
+  Java Continue Statement
+  JDK,JVM,JRE
+  PATH setting
+  Aggregation HAS-A
+  Object Cloning
+  Math Class
+  Wrapper Class
+  Javadoc Tool
+
+ATM mini project completed
+
+Contact mini project started
