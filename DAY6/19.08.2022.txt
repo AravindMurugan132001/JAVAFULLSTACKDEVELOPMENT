@@ -1,0 +1,15 @@
+Topics Coverd
+	Mysql intro
+
+	  DDL
+	  DML Commands
+	JDBC intro
+	  Prepare Statement
+	  Database Connectivity
+	MAVEN
+	GIT    Connections
+Tasks:
+	Inner Join
+	OuterJoin
+	Left Join
+	Right Join	

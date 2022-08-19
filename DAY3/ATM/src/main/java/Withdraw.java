@@ -4,7 +4,7 @@ public class Withdraw {
         if (amount < balance) {
             System.out.println("SUCCESFULLY WITHDRAWAL");
             Utils.initialBalance = balance - amount;
-            System.out.print("Your Current Balance Is : " + Utils.initialBalance);
+            System.out.println("Your Current Balance Is : " + Utils.initialBalance);
         } else
             System.out.println("Insufficiant Balance");
     }

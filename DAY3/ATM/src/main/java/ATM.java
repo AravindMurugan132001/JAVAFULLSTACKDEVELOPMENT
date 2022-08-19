@@ -16,7 +16,7 @@ public class ATM {
                     System.out.print("Enter The Amount To Withdraw : ");
                     amount = scanner.nextInt();
                     Withdraw withdraw = new Withdraw(amount);
-                    //menu.display();
+                    //menu.display();1
                     break;
                 case 2:
                     System.out.println("Enter The Amount To Deposit : ");
