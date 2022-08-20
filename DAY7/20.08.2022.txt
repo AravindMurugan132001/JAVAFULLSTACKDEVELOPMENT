@@ -1,0 +1,14 @@
+20.08.2022
+Today Covered Topics
+ 1.Git
+   initialaization
+   Staging
+   Remote Connection
+   Commit
+   Branching
+   Push
+ Merging conflict
+2.Maven
+   Menuinter Inter Pc
+
+Maven
