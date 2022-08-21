@@ -7,8 +7,8 @@ Today Covered Topics
    Commit
    Branching
    Push
- Merging conflict
+ >Merging conflict
 2.Maven
-   Menuinter Inter Pc
+   Maven Importing
+   Usage
 
-Maven
