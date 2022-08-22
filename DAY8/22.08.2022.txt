@@ -1,0 +1,21 @@
+Topics Coverd
+	Mini Project using Java - Todo 
+	
+Spring Basics
+	1.Tighly Coupled
+	2.Loosly Coupled
+	3.Components And Autowiring
+	4.Primary
+	5.Constructor & Setter Injection
+	6.Autowriting By Name
+	7.Qualifier
+	8.Bean Scope
+	9.Couple Scope
+	10.Componant Scan
+	11.LifeCycle Of Bean
+	12.CDI
+	13.Without Spring Boot
+	14.XML Configuration
+Git Branching
+
+	
