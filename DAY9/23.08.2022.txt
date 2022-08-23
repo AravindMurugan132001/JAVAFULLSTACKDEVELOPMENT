@@ -1,0 +1,9 @@
+Topics Coverd :
+	1.Spring - Retake Today
+	2.Spring Boot
+	 i .AutoConfiguration
+	 ii .WebServices
+	 iii.Auto Controller
+Tasks:
+	1.Spring TODO Project
+	2.Spring Basic Exercise 
