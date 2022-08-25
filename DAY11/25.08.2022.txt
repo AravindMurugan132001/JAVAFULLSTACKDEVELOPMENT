@@ -1,0 +1,16 @@
+Topics Covered:
+	1.webflux
+	2.Reactive Mongo
+	3.Reactive Types
+		Flux
+		Mono
+	4.JPA Entity Relationships.
+Tasks Covered:
+ Program using JPA entity relationship
+Queries:
+ 1.What is Fetch ?
+ 2.Difference between Joincolumn & MappedBy.
+ 3.What is Sequence?
+ 4.Difference between Bidirectional & Unidirectional Mapping
+ 5.Join vs InverseJoinColumn.
+ 6.What is RestController?
