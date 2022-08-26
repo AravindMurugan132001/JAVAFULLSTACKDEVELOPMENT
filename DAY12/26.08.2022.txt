@@ -1,0 +1,14 @@
+Topics Covered:
+ 1.Spring Boot JPA:
+    i.Java Persistance API.
+   ii.Objcet Relation Mapping (ORM).
+  iii.JPA Entity Manager.
+   iv.JPA Mappings.
+
+ 2.Spring Boot Rest Controller:
+   i.Rest Controller.
+  ii.RequestBody.
+  iiiRequest Mapping.
+
+Task Coverd:
+  1.Entity Relationship Programs using Hibernate And Mysql.
