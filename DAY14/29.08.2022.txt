@@ -1,0 +1,21 @@
+Topics Covered:
+
+*Basics Of HTML
+	lists
+	 Images
+	 links
+	 Tables
+	 Forms
+*Basics Of CSS
+ 	Selector
+ 	Box model
+ 	Dimension
+ 	Positions
+ 	Font,Text color
+	Recap
+*Spring boot security
+ 	Role base
+	Basic Auth
+*Tasks
+	HTML,CSS-Webpage
+ 	Add Role base authentication in main project
