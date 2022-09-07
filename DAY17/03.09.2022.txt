@@ -1,0 +1,9 @@
+Topics covered:
+1. API Response
+	i.Error Response
+	ii. Exceptions
+2. Logger Module
+	1. SLF 4J
+
+Tasks:
+1. Admin Dashboard using Bootstrap.
