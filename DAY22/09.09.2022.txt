@@ -1,0 +1,13 @@
+Topics covered:
+1.unit testing
+	i.software quality & basics of unit testing
+	ii.Junit, examples & annotations used in Junit
+	iii.stubs,mocks,(mocking database operation)
+	iv.sonarcube setup and validation
+2.React JS
+=>routing and examples
+
+Project:
+working on UI
+backend-25%
+frontend-20%
