@@ -1,0 +1,9 @@
+Project Status:
+	UI-30%
+	Backend-20%
+
+Contact Application demo project using react.
+
+Queries:
+ i.Do Hooks cover all use cases for classes.?
+ii.Do hooks wooks with static typing.
